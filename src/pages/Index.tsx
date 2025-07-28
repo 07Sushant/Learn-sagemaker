@@ -1756,7 +1756,7 @@ print("Cleanup completed!")`}</code></pre>
           </div>
           
           <div className="border-t border-background/20 pt-8 mt-8 text-center text-sm text-background/70">
-            <p>&copy; 2024 SageMaker Academy. Built for educational purposes. AWS and SageMaker are trademarks of Amazon Web Services, Inc.</p>
+            <p>&copy; 2025 SageMaker Academy. This Assignment is completed by SUSHANT</p>
           </div>
         </div>
       </footer>
