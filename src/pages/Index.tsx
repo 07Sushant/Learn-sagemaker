@@ -355,7 +355,7 @@ const SageMakerLearningPlatform = () => {
                 </h1>
                 <p className="text-xl text-blue-100 leading-relaxed max-w-2xl">
                   A comprehensive and interactive tutorial to help you master Amazon SageMaker for building, 
-                  training, and deploying machine learning models – whether you're a beginner or an aspiring expert.
+                  training, and deploying machine learning models whether you're a beginner or an aspiring expert.
                 </p>
               </div>
 
